@@ -2,6 +2,9 @@
 
 Plataforma de laboratório e portfólio para observabilidade de microsserviços Java.
 
+
+> **Engineering decisions & trade-offs:** [docs/engineering-decisions.md](docs/engineering-decisions.md) — contexto, alternativas consideradas, custos das escolhas, estratégia de testes e diagnóstico operacional.
+
 ## Stack inicial
 - Java 21 + Spring Boot
 - Spring Boot Actuator + Micrometer
